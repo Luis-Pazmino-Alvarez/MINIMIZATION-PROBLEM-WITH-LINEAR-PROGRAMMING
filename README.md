@@ -39,3 +39,6 @@ How to interpret and visualize results of optimization problems.
 📝 License
 Distributed under the GNU GPL 3.0 License.
 
+📬 Contact
+Created by Luis Pazmino Alvarez, consultant in finance, economics, and predictive modeling. Connect with me on LinkedIn https://www.linkedin.com/in/luis-pazmino-702838248/.
+
